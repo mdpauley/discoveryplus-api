@@ -1,7 +1,7 @@
 {
   "name": "discoveryplus-unofficial-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Unofficial Discovery Plus API to search shows and get episode information",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,16 @@
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7",
     "zero-pad": "^1.1.0"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdpauley/discoveryplus-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdpauley/discoveryplus-api/issues"
+  },
+  "homepage": "https://github.com/mdpauley/discoveryplus-api#readme"
 }
